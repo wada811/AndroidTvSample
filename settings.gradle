@@ -1,0 +1,2 @@
+rootProject.name = 'AndroidTvSample'
+include ':app'
